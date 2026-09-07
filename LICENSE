@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 Andrea Nardo, Flavio Frasca, Francesca Longo, Giuditta Macigno
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Note: this license covers the team's own contributions (see README.md,
+"Provenance & attribution"). Two vendored subfolders carry their own,
+different licenses:
+
+- `eomt/` is a trimmed copy of the official EoMT codebase (Copyright (c)
+  2025 Mobile Perception Systems Lab at TU/e), MIT-licensed -- see
+  eomt/LICENSE.
+- `eval/` is course-provided evaluation code based on erfnet_pytorch
+  (Eromera/erfnet_pytorch), which is licensed under
+  **Creative Commons Attribution-NonCommercial 4.0 International
+  (CC BY-NC 4.0)** -- personal and research use only, no explicit LICENSE
+  file is bundled in this subfolder but the restriction applies as stated
+  by the original repository. Do not reuse `eval/` commercially without
+  contacting the original author.
+
